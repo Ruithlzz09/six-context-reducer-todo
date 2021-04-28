@@ -47,5 +47,6 @@
     "reactjs"
   ],
   "author": "sachin09",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {}
 }
